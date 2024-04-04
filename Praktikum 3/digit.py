@@ -3,6 +3,7 @@
 # Deskripsi: Menerima sejumlah integer dan menentukan jumlah digit yang ada
 
 # KAMUS
+# array = list of integer
 
 # Input
 array = []
